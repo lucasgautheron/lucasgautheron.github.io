@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -95,12 +95,12 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-n-body-simulation-for-the-solar-system",
           title: 'N-body simulation for the solar system',
-          description: "An educative programfor predicting and visualizing planetary motion that I created in high-school.",
+          description: "An educative program for predicting and visualizing planetary motion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-rocket-science",
           title: 'Rocket science',
-          description: "Automated water-rocket launch-pad (high-school project)",
+          description: "Automated water-rocket launch-pad",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-optimizing-battery-charge-for-reduced-carbon-dioxyde-emissions",
