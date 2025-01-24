@@ -1,10 +1,10 @@
 ---
 layout: page
 title: N-body simulation for the solar system
-description: An educative programfor predicting and visualizing planetary motion that I created in high-school.
+description: An educative program for predicting and visualizing planetary motion
 img: assets/img/orbit.png
 importance: 2
-category: work
+category: high-school
 giscus_comments: true
 ---
 

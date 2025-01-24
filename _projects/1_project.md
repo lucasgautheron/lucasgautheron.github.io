@@ -5,7 +5,7 @@ description:
 img: assets/img/cosmo.jpg
 importance: 1
 redirect: http://cosmology.education/
-category: work
+category: fun
 
 related_publications: true
 ---
