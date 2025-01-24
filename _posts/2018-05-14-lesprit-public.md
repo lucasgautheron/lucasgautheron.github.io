@@ -56,7 +56,7 @@ libéraux, comme Monique Canto Sperber ou encore Philippe Manière.
 
 ![Répartition par parti politique des invitations aux 29 émissions
 enregistrées entre le 01/10/2017 et le
-13/05/2018.](/assets/images/lesprit-public/partis.png)
+13/05/2018.](/assets/img/lesprit-public/partis.png)
 
 Dans ces circonstances, non seulement l'émission est monopolisée par un
 petit club restreint, mais en plus celui-ci manque cruellement de

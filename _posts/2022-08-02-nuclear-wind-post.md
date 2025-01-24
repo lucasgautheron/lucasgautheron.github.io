@@ -28,7 +28,7 @@ Ces données, une fois combinées, permettent d'estimer la puissance installée 
 Cela permet de répondre à des questions telles que : combien faut-il installer d'éoliennes pour obtenir au moins 1 GW (la puissance typique d'un réacteur nucléaire) 90% de l'année ? Les résultats sont donnés ci-dessous, et la méthodologie est explicitée et discutée plus bas.
 
 <figure>
-  <img src="/assets/images/nuclear-wind/puissance_installee_garanti_annee.png" alt="" style="max-width: 800px"/>
+  <img src="/assets/img/nuclear-wind/puissance_installee_garanti_annee.png" alt="" style="max-width: 800px"/>
   <figcaption>Puissance installée requise pour garantir une puissance disponible d'1 GW minimum avec un certain taux de disponibilité sur l'année, pour l'éolien et le nucléaire. Données du parc français. Les courbes continues représentent les valeurs moyennes. Les zones colorées représentent les variations d'une année sur l'autre.</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Le graphe ci-dessus tient compte de la variabilité de disponibilité du parc d'
 Ci-dessous, le même graphique est produit pour les données correspondant aux mois d'hiver seulement (décembre à mars inclus), où 1) il y a plus de vent et 2) la demande est plus importante, de sorte qu'EDF s'arrange pour que le parc nucléaire soit davantage disponible (et donc que son facteur de charge soit meilleur). On observe bien ces deux effets, car la puissance installée nécessaire dans un cas comme dans l'autre est plus faible. Mais la distinction demeure nette :
 
 <figure>
-  <img src="{{site.url}}/assets/images/nuclear-wind/puissance_installee_garanti_hiver.png" alt=""/>
+  <img src="{{site.url}}/assets/img/nuclear-wind/puissance_installee_garanti_hiver.png" alt=""/>
   <figcaption>Puissance installée requise pour garantir une puissance disponible d'1 GW minimum avec un certain taux de disponibilité sur les mois d'hiver, pour l'éolien et le nucléaire. Données du parc français.</figcaption>
 </figure>
 

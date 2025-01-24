@@ -19,7 +19,7 @@ Les deux ouvrages en question affirment aborder la démocratie sous un angle rel
 Le premier, *Democracy and Knowledge: Innovation and Learning in Classical Athens* de J. Ober [^1], est une étude de cas qui se concentre sur une forme particulière de démocratie bien distincte de nos "démocraties" contemporaines. Ober introduit d'ailleurs son ouvrage par une mise en exergue des différences fondamentales entre la démocratie Athénienne et, par exemple, la démocratie américaine. De son côté, *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many* de H. Landemore [^2] est beaucoup plus théorique, et discute de la démocratie dans un sens plus large et en des termes assez généraux (en discutant, par exemple, des propriétés épistémiques du "majoritarisme").
 
 <figure>
-  <img src="/assets/images/democratie-epistemique/image.jpg" height="7em">
+  <img src="/assets/img/democratie-epistemique/image.jpg" height="7em">
   <figcaption>Couvertures de <em>Democracy and Knowledge: Innovation and Learning in Classical Athens</em> et <em>Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many</em></figcaption>
 </figure>
 
