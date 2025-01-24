@@ -142,7 +142,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/posts/2018/05/lesprit-public-une-emission-privatisee-sur-france-culture/";
+          window.location.href = "/blog/2018/lesprit-public/";
         
       },
     },{id: "projects-project-1",
