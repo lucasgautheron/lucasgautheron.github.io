@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Ph.D. candidate</a> in collective cognition & computational social science.
 
 profile:
   align: right
@@ -44,8 +44,8 @@ I look into what computational methods and quantitative analyses of scientific l
 This project is financed by the Research Training Group "<a href="https://grk2696.de/">Transformations of Science and Technology since 1800</a>".
 
   
-Language Acquisition Across Cultures
-------------------------------------
+Language Acquisition Across Cultures (Ecole Normale Superieure, Paris)
+----------------------------------------------------------------------
 
 I am also collaborating with the <a href="https://lscp.dec.ens.fr/en">LSCP</a>, as part of the Language Acquisition Across Cultures team led by Alejandrina Cristia. This team studies Language Acquisition by collecting and analyzing long-form recordings capturing the sound environment of infants (what they ear) and their own vocal production.
 This method generates large amounts of audio (typically thousands of hours of audio per corpus) which can be challenging to analyze. My work consists into the elaboration of statistical models and in the development of <a href="https://github.com/LAAC-LSCP/ChildProject">tools</a> that enable performant systematic analyses across many corpora.
