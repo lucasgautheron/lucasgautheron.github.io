@@ -2,11 +2,32 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching materials I created or contributed to.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<h4>Computational social science</h4>
+<ul>
+    <li>2025/01: <a href="/assets/pdf/20250124_inverse_problems_for_philosophers_bochum.pdf">"Inverse problems for philosophers: bridging the gap between agent-based models and behavioral data"</a>, University of Bochum.</li>
+</ul>
 
-Organize your courses by years, topics, or universities, however you like!
+<h4>Collective cognition</h4>
+<ul>
+    <li><a href="/assets/pdf/collective_cognition.pdf">A proposed course on collective cognition</a>.</li>
+</ul>
+
+
+<h4>Linguistics</h4>    
+<ul>
+    <li><a href="https://github.com/LAAC-LSCP/childproject-tutorials/">LongFORmer (aka ChildProject) python tutorials</a></li>
+    <li><a href="https://bookdown.org/alecristia/exelang-book/">Long-form recordings: From A to Z
+     </a>(Sara Pisani, Lucas Gautheron, Alejandrina Cristia)</li>
+</ul>
+
+<h4>Physics</h4>
+<ul>
+    <li><a href="http://cosmology.education">History of Modern Cosmology</a> <img src="/assets/img/FR.webp" style="vertical-align: middle;" width="16px" />. </li>
+    <li><a href="http://orbit.sciencestechniques.fr/">"Orbit", a C++ software for simulating and visualizing planetary motion</a>. The program solves the N-body problem iteratively, displays planets' and their satellites' trajectories on the fly, estimates orbit parameters, and predicts future transits and eclipses. I wrote the program in high-school; it was subsequently used in class.</li>
+</ul>
+
