@@ -5,6 +5,7 @@ date: 2022-09-15
 permalink: /posts/2022/09/epistemic-democracy/
 image: democratie-epistemique/image.jpg
 bibentry: Ober2010,Landemore2017
+categories: posts
 tags:
   - social epistemology
   - political science
