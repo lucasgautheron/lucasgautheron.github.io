@@ -120,7 +120,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/posts/2022/07/social-epistemology/";
+          window.location.href = "/blog/2022/social-epistemology-post/";
         
       },
     },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -142,7 +142,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2018/lesprit-public/";
+          window.location.href = "/posts/2018/05/lesprit-public-une-emission-privatisee-sur-france-culture/";
         
       },
     },{id: "projects-project-1",
