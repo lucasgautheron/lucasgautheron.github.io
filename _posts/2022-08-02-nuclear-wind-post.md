@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Le nucléaire, 'plus intermittent' que l'éolien?"
 date: 2022-08-02
 permalink: /posts/2022/08/eolien-nucleaire-intermittent/

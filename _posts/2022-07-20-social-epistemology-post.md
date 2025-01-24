@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Notes on Social Epistemology: Essential Readings'
 date: 2022-07-20
 permalink: /posts/2022/07/social-epistemology/
