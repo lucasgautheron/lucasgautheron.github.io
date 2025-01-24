@@ -34,7 +34,7 @@ l'Université, le terrorisme, la Libye, l'affaire Ramadan, la Corse, le
 socialisme, les réfugiés, Vladimir Poutine, ou encore le climat.
 
 ![Répartition des invitations aux 29 émissions enregistrées entre le
-01/10/2017 et le 13/05/2018.](/images/lesprit-public/invites.png)
+01/10/2017 et le 13/05/2018.](/assets/img/lesprit-public/invites.png)
 
 La poignée d'invités convoqués sur tous ces sujets ne pouvant se
 prévaloir d'une « expertise » aussi large, la « mise en perspective de
