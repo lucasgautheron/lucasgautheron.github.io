@@ -250,12 +250,6 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
-      {%- if entry.tags -%}
-          {% assign tags = {{entry.tags}} | split: ',' %}
-          {% for tag in tags %}
-              <span class="tag badge">{{tag}}</span>
-          {% endfor %}
-      {%- endif -%}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
@@ -338,6 +332,13 @@
               >
             </a>
           {% endif %}
+
+          {%- if entry.tags -%}
+              {% assign tags = {{entry.tags}} | split: ',' %}
+              {% for tag in tags %}
+                  <span class="tag badge">{{tag}}</span>
+              {% endfor %}
+          {%- endif -%}
         </div>
       {% endif %}
     {% endif %}
