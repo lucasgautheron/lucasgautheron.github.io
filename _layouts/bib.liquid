@@ -336,7 +336,7 @@
           {%- if entry.tags -%}
               {% assign tags = {{entry.tags}} | split: ',' %}
               {% for tag in tags %}
-                  <span class="tag badge">{{tag}}</span>
+                  <span class="tag tag-{{tag | slugify}} badge">{{tag}}</span>
               {% endfor %}
           {%- endif -%}
         </div>
