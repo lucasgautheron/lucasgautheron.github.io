@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching materials I created or contributed to.
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 <h4>Computational social science</h4>
