@@ -13,7 +13,7 @@ nav_order: 1
 
 {% include bib_search.liquid %}
 
-<h1>publications</h1>
+<!-- <h1>publications</h1> -->
 
 <div class="publications">
 
