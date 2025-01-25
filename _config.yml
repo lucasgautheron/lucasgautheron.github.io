@@ -299,7 +299,7 @@ scholar:
   sort_by: presort, year, month
   sort_order: descending, descending
   group_by: keywords
-  group_order: [preprints, publications, conferenceproceedings, press]
+  keywords_order: [preprints, publications, conferenceproceedings, press]
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
