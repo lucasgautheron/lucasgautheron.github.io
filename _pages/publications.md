@@ -13,6 +13,8 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<h1>publications</h1>
+
 <div class="publications">
 
 {% bibliography  -q @*[keywords=preprints]*  %}
