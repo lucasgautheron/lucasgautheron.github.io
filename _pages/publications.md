@@ -15,25 +15,15 @@ nav_order: 2
 
 <div class="publications">
 
-<h1>publications</h1>
-
-<h2>preprints</h2>
-
 {% bibliography  -q @*[keywords=preprints]*  %}
-
-<h2>peer-reviewed publications</h2>
 
 {% bibliography  -q @*[keywords=publications]*  %}
 
 <h1>talks</h1>
 
-<h2>invited talks</h2>
+{% bibliography  -q @unpublished[keywords='talks,invitedtalks']*  %}
 
-{% bibliography  -q @*[keywords=invitedtalks]*  %}
-
-<h2>conference presentations</h2>
-
-{% bibliography  -q @*[keywords=contributedtalks]*  %}
+{% bibliography  -q @unpublished[keywords='talks,invitedtalks']*  %}
 
 <h1>news media</h1>
 
