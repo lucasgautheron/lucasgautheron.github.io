@@ -21,9 +21,9 @@ nav_order: 2
 
 <h1>talks</h1>
 
-{% bibliography  -q @unpublished[keywords='talks,invitedtalks']*  %}
+{% bibliography  -q @unpublished[keywords=invitedtalks]*  %}
 
-{% bibliography  -q @unpublished[keywords='talks,invitedtalks']*  %}
+{% bibliography  -q @unpublished[keywords=contributedtalks]*  %}
 
 <h1>news media</h1>
 
