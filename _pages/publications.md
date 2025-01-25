@@ -35,7 +35,7 @@ nav_order: 2
 
 {% bibliography --file talks.bib -q @*[keywords=talks,contributedtalks]* --sort_by year,month --sort_order descending,descending %}
 
-<h1>News media</h1>
+<h1>news media</h1>
 
 {% bibliography --file publications.bib -q @*[keywords=press]* --sort_by year,month --sort_order descending,descending %}
 
