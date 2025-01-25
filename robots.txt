@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://lucasgautheron-tests.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://lucasgautheron.github.io/sitemap.xml
