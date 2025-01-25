@@ -282,7 +282,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: publications.bib
+  bibliography: publications.bib, talks.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -298,7 +298,6 @@ scholar:
   query: "@*"
   sort_by: year, month
   sort_order: descending, descending
-  # keywords_order: [preprints, publications, conferenceproceedings, press]
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
