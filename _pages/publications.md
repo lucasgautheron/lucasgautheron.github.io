@@ -19,24 +19,24 @@ nav_order: 2
 
 <h2>preprints</h2>
 
-{% bibliography -f publications -q @*[keywords=preprints]* --sort_by year,month --sort_order descending,descending %}
+{% bibliography --file publications.bib -q @*[keywords=preprints]* --sort_by year,month --sort_order descending,descending %}
 
 <h2>peer-reviewed publications</h2>
 
-{% bibliography -f publications -q @*[keywords=publications]* --sort_by year,month --sort_order descending,descending %}
+{% bibliography --file publications.bib -q @*[keywords=publications]* --sort_by year,month --sort_order descending,descending %}
 
 <h1>talks</h1>
 
 <h2>invited talks</h2>
 
-{% bibliography -f talks -q @*[keywords=talks,invitedtalks]* --sort_by year,month --sort_order descending,descending %}
+{% bibliography --file talks.bib -q @*[keywords=talks,invitedtalks]* --sort_by year,month --sort_order descending,descending %}
 
 <h2>conference presentations</h2>
 
-{% bibliography -f talks -q @*[keywords=talks,contributedtalks]* --sort_by year,month --sort_order descending,descending %}
+{% bibliography --file talks.bib -q @*[keywords=talks,contributedtalks]* --sort_by year,month --sort_order descending,descending %}
 
 <h1>News media</h1>
 
-{% bibliography -f publications -q @*[keywords=press]* --sort_by year,month --sort_order descending,descending %}
+{% bibliography --file publications.bib -q @*[keywords=press]* --sort_by year,month --sort_order descending,descending %}
 
 </div>
