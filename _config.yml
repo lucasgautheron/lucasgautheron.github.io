@@ -296,10 +296,9 @@ scholar:
   details_link: Details
 
   query: "@*"
-  sort_by: presort, year, month
-  sort_order: ascending, descending, descending
-  group_by: keywords
-  keywords_order: [preprints, publications, conferenceproceedings, press]
+  sort_by: year, month
+  sort_order: descending, descending
+  # keywords_order: [preprints, publications, conferenceproceedings, press]
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
