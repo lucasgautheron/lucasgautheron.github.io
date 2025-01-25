@@ -17,7 +17,7 @@ nav_order: 2
 
 {% bibliography  -q @*[keywords=preprints]*  %}
 
-{% bibliography  -q @*[keywords=publications]*  %}
+{% bibliography  -q @*[keywords=publications]* --sort_by year --sort_order descending %}
 
 <h1>talks</h1>
 
