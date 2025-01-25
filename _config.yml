@@ -297,7 +297,7 @@ scholar:
 
   query: "@*"
   sort_by: [year, month]
-  sort_order: [descending, descending]
+  order: [descending, descending]
   group_by: keywords
 
 # Display different badges withs stats for your publications

@@ -17,13 +17,15 @@ nav_order: 2
 
 {% bibliography  -q @*[keywords=preprints]*  %}
 
-{% bibliography  -q @*[keywords=publications]* --sort_by year --sort_order descending %}
+{% bibliography  -q @*[keywords=publications]* --sort_by year --order descending %}
 
 <h1>talks</h1>
 
-{% bibliography  -q @unpublished[keywords=invitedtalks]*  %}
+{% bibliography  -q @unpublished[keywords^=invitedtalks]*  %}
 
-{% bibliography  -q @unpublished[keywords=contributedtalks]*  %}
+{% bibliography  -q @unpublished[keywords^=contributedtalks]*  %}
+
+{% bibliography  -q @unpublished[keywords^=poster]*  %}
 
 <h1>news media</h1>
 
