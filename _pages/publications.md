@@ -29,11 +29,11 @@ nav_order: 2
 
 <h2>invited talks</h2>
 
-{% bibliography  -q @*[keywords=talks,invitedtalks]*  %}
+{% bibliography  -q @*[keywords=invitedtalks]*  %}
 
 <h2>conference presentations</h2>
 
-{% bibliography  -q @*[keywords=talks,contributedtalks]*  %}
+{% bibliography  -q @*[keywords=contributedtalks]*  %}
 
 <h1>news media</h1>
 
