@@ -297,7 +297,7 @@ scholar:
 
   query: "@*"
   sort_by: presort, year, month
-  sort_order: descending, descending
+  sort_order: ascending, descending, descending
   group_by: keywords
   keywords_order: [preprints, publications, conferenceproceedings, press]
 

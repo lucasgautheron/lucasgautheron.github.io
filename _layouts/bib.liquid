@@ -253,7 +253,7 @@
       {%- if entry.tags -%}
           {% assign tags = {{entry.tags}} | split: ',' %}
           {% for tag in tags %}
-              <a href="#" class="btn btn-sm z-depth-0" role="button">{{tag}}</a>
+              <span class="tag badge">{{tag}}</span>
           {% endfor %}
       {%- endif -%}
     </div>
