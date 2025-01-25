@@ -56,16 +56,16 @@ Voici quelques démonstrations (on aperçoit la prise électrique pilotée par l
 <p><b>Commande forcée</b> (sans optimisation)</p>
 <p>
 <video controls width="480px">
-    <source src="/images/battery-charge/forced_command.mp4" type="video/mp4" />
-    <!-- <source src="/images/battery-charge/arduino.webm" type="video/webm" /> -->
+    <source src="/assets/img/battery-charge/forced_command.mp4" type="video/mp4" />
+    <!-- <source src="/assets/img/battery-charge/arduino.webm" type="video/webm" /> -->
 </video>
 </p>
 
 <p><b>Commande optimale</b> (avec optimisation)</p>
 <p>
 <video controls width="480px">
-    <source src="/images/battery-charge/optimal_command.mp4" type="video/mp4" />
-    <!-- <source src="/images/battery-charge/arduino.webm" type="video/webm" /> -->
+    <source src="/assets/img/battery-charge/optimal_command.mp4" type="video/mp4" />
+    <!-- <source src="/assets/img/battery-charge/arduino.webm" type="video/webm" /> -->
 </video>
 <br /> 
 </p>
@@ -73,8 +73,8 @@ Voici quelques démonstrations (on aperçoit la prise électrique pilotée par l
 <p><b>Affichage du programme de charge</b></p>
 <p>
 <video controls width="480px">
-    <source src="/images/battery-charge/arduino.mp4" type="video/mp4" />
-    <source src="/images/battery-charge/arduino.webm" type="video/webm" />
+    <source src="/assets/img/battery-charge/arduino.mp4" type="video/mp4" />
+    <source src="/assets/img/battery-charge/arduino.webm" type="video/webm" />
 </video>
 </p>
 
@@ -105,10 +105,10 @@ L'affichage LCD doit remplir les fonctions suivantes:
 
 Le principe de fonctionnement est le suivant :
 
-![Diagramme FAST](/images/battery-charge/fast.tex.png)
+![Diagramme FAST](/assets/img/battery-charge/fast.tex.png)
 **Figure 1. Diagramme FAST**
 
-![Schéma simplifié de la solution](/images/battery-charge/interacting.tex.png)
+![Schéma simplifié de la solution](/assets/img/battery-charge/interacting.tex.png)
 **Figure 2. Schéma simplifié de la solution**
 
 ## Composants techniques
@@ -282,7 +282,7 @@ de charge plus étalés.
 
 ![Répartition de la production, intensité carbone (en noire) et commande
 optimale de charge (en rouge, graphique du
-bas).](/images/battery-charge/all_2023-07-10_2023-07-12.png)
+bas).](/assets/img/battery-charge/all_2023-07-10_2023-07-12.png)
 **Figure 3. Répartition de la production, intensité carbone (en noire) et commande optimale de charge (en rouge, graphique du bas)**
 
 ### Performances
@@ -293,7 +293,7 @@ Pour évaluer la performence du modèle, je propose deux stratégies :
  - Évaluer les gains obtenus via les commandes de charge prédites, en supposant que l'intensité carbone réelle est celle calculée a posteriori par Electricity Maps.
 
 
-![Performence du modèle prédictif: exemple](/images/battery-charge/validation_1_linear.png)
+![Performence du modèle prédictif: exemple](/assets/img/battery-charge/validation_1_linear.png)
 **Figure 4. Répartition de la production, intensité carbone prédite (en noire) et constatée par Electricity Maps (en rouge). La corrélation de Spearman entre prédiction et réel est d'environ 0,6.**
 
 
