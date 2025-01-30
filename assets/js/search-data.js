@@ -113,7 +113,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("lucasgautheron", "_blank");
+          window.open("https://bsky.app/profile/lucasgautheron.bsky.social", "_blank");
         },
       },{
         id: 'social-email',
@@ -123,11 +123,18 @@ ninja.data = [{
           window.open("mailto:%6C%75%63%61%73.%67%61%75%74%68%65%72%6F%6E@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/lucasgautheron", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-3776-3373# your ORCID ID", "_blank");
         },
       },{
         id: 'social-rss',
