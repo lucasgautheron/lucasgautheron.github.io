@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Rocket science
-description:  Automated water-rocket launch-pad
-img: assets/img/rocket.gif
+title: Barnes-Hut
+description: Barnes-Hut algorithm in C++ in real-time with a graphical interface
+img: assets/img/barnes-hut.gif
 importance: 3
 category: fun
 ---
