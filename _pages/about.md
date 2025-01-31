@@ -40,7 +40,7 @@ Long story short, I am interested in challenges involved in the production and c
 
 I look into what computational methods and quantitative analyses of scientific literature can tell us about these issues, by developing statistical models grounded in theoretical literature from social epistemology, cognitive science, cultural evolution, and the philosophy of science. I focus on high-energy physics, a field where these challenges are very relevant, and, I would argue, at the root of a "complexity crisis". The empirical material I study includes large amounts of data from the physics literature, including semantic and social data. I use methods such as nautral language processing, network analysis, inverse problems, and simulation-based inference.
  
-This project is financed by the Research Training Group "<a href="https://grk2696.de/">Transformations of Science and Technology since 1800</a>".
+This project is funded by the Research Training Group "<a href="https://grk2696.de/">Transformations of Science and Technology since 1800</a>".
 
   
 Language Acquisition Across Cultures (Ecole Normale Superieure, Paris)
