@@ -108,9 +108,9 @@ ninja.data = [{
           description: "Includes electronics, microcontrollers, system modeling, convex optimization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-rocket-science",
-          title: 'Rocket science',
-          description: "Automated water-rocket launch-pad",
+            },},{id: "projects-barnes-hut",
+          title: 'Barnes-Hut',
+          description: "Barnes-Hut algorithm in C++ in real-time with a graphical interface",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{
