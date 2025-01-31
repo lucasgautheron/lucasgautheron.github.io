@@ -108,6 +108,11 @@ ninja.data = [{
           description: "Includes electronics, microcontrollers, system modeling, convex optimization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-rocket-science",
+          title: 'Rocket science',
+          description: "Automated water-rocket launch-pad",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
