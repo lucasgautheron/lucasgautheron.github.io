@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Barnes-Hut
-description: Barnes-Hut algorithm in C++ in real-time with a graphical interface
+title: Information foraging
+description: MAB foraging.
 img: assets/img/inforaging/heatmap_ignorance_tree.png
 importance: 3
 category: wip
