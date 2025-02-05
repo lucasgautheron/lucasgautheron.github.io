@@ -2,7 +2,7 @@
 layout: page
 title: Barnes-Hut
 description: Barnes-Hut algorithm in C++ in real-time with a graphical interface
-img: assets/img/barnes-hut.gif
+img: /assets/img/barnes-hut.gif
 importance: 3
 category: fun
 ---
