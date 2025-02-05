@@ -113,9 +113,9 @@ ninja.data = [{
           description: "Barnes-Hut algorithm in C++ in real-time with a graphical interface",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-barnes-hut",
-          title: 'Barnes-Hut',
-          description: "Barnes-Hut algorithm in C++ in real-time with a graphical interface",
+            },},{id: "projects-information-foraging",
+          title: 'Information foraging',
+          description: "MAB foraging.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{
