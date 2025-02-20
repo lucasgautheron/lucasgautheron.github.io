@@ -9,6 +9,7 @@ nav_order: 2
 
 <h4>Computational social science</h4>
 <ul>
+    <li>2025: <a href="https://ssc-ehess.github.io/">Advanced introduction to computational social science</a> (<a href="https://www.ehess.fr/fr">EHESS</a> - PI: Camille Roth)</li>
     <li>2025/01: <a href="/assets/pdf/20250124_inverse_problems_for_philosophers_bochum.pdf">"Inverse problems for philosophers: bridging the gap between agent-based models and behavioral data"</a>, University of Bochum.</li>
 </ul>
 
