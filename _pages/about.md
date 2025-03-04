@@ -22,7 +22,9 @@ Research interests
 
 I am a French student in computational sociology/philosophy at the Interdisciplinary Centre for Science and Technology Studies in Wuppertal. I have a training in fundamental physics (École Normale Supérieure de Cachan and Université Pierre et Marie Curie) and in history and philosophy of science (Université Paris-Cité).
 
-My research aims to understand how collectives generate, leverage, transmit, and sustain complex knowledge. To answer these questions, I apply computational methods to observational behavioral data. My PhD focuses on social dilemmas high-energy physics, which is particularly interesting due to a strong division of labor. My project is highly interdiscplinary, spanning across philosophy of science, social epistemology, cognitive science, and cultural evolution. 
+**My research aims to understand how collectives generate, leverage, transmit, and sustain complex knowledge. In particular, I am interested in how individuals navigate social dilemmas arising in contexts of collective cognition.**
+
+To answer these questions, I apply computational methods to observational behavioral data. My PhD focuses on social dilemmas in science and high-energy physics, which is particularly interesting due to a strong division of labor. My project is highly interdiscplinary, spanning across philosophy of science, social epistemology, cognitive science, and cultural evolution. 
 
 In a previous life, I have also been a journalist and the publication manager for the french online media [Le Média](https://lemediatv.fr>).
 
