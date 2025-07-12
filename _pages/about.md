@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 Research interests
 ==================
 
-I recently completed by PhD in computational sociology at the Interdisciplinary Centre for Science and Technology Studies in Wuppertal. I have a training in fundamental physics (École Normale Supérieure de Cachan and Université Pierre et Marie Curie) and in history and philosophy of science (Université Paris-Cité). Starting this summer (2025), I will be a postdoctoral research at the University of Missouri.
+I recently completed by PhD in computational sociology at the Interdisciplinary Centre for Science and Technology Studies in Wuppertal. I have a training in fundamental physics (École Normale Supérieure de Cachan and Université Pierre et Marie Curie) and in history and philosophy of science (Université Paris-Cité). Starting this summer (2025), I will start a research postdoc at the University of Missouri.
 
 **My research aims to understand how collectives generate, leverage, transmit, and sustain complex knowledge. In particular, I am interested in how individuals navigate social dilemmas arising in contexts of collective cognition.**
 
