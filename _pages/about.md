@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Ph.D. candidate</a> in collective cognition & computational social science.
+subtitle: <a href="#">Collective cognition & computational social science</a>.
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 Research interests
 ==================
 
-I am a French student in computational sociology/philosophy at the Interdisciplinary Centre for Science and Technology Studies in Wuppertal. I have a training in fundamental physics (École Normale Supérieure de Cachan and Université Pierre et Marie Curie) and in history and philosophy of science (Université Paris-Cité).
+I recently completed by PhD in computational sociology at the Interdisciplinary Centre for Science and Technology Studies in Wuppertal. I have a training in fundamental physics (École Normale Supérieure de Cachan and Université Pierre et Marie Curie) and in history and philosophy of science (Université Paris-Cité). Starting on August 2025, I will be a postdoctoral research at the University of Missouri.
 
 **My research aims to understand how collectives generate, leverage, transmit, and sustain complex knowledge. In particular, I am interested in how individuals navigate social dilemmas arising in contexts of collective cognition.**
 
@@ -31,10 +31,10 @@ In a previous life, I have also been a journalist and the publication manager fo
 Current projects
 ================
 
-Social dilemmas in science (PhD, IZWT, Wuppertal)
+Social dilemmas in science
 -------------------------------------------------------------------------------------------------
 
-Long story short, I am interested in challenges involved in the production and cultivation of complex knowledge, in particular those that take the form of social dilemmas (including action problems). These challenges include:
+As part of my doctoral project, I have explored the challenges involved in the production and cultivation of complex knowledge, in particular those that take the form of social dilemmas (including action problems). These challenges include:
 
  - **Challenges related to coordination**. Specialization entails that different scientific communities hold distinct bodies of knowledge with little overlap. How can they understand each other and exchange knowledge? How can they sustain cooperation as they develop their own, sometimes orthogonal goals? My <a href="https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00262/117340/How-research-programs-come-apart-the-example-of">first paper</a> in the context my PhD addresses this particular issue. 
  - **Challenges related to adaptation**. Complex knowledge can be difficult to adjust and re-purpose as circumstances change. How scientists navigate the balance between specialization and adaptation? My second PhD <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-024-00516-8">paper</a> addresses exactly this question.
