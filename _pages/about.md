@@ -22,13 +22,13 @@ Research interests
 
 I am currently a Postdoctoral Fellow at the University of Missouri. I recently completed by PhD in computational sociology at the Interdisciplinary Centre for Science and Technology Studies in Wuppertal. I have a training in fundamental physics (École Normale Supérieure de Cachan and Université Pierre et Marie Curie) and in history and philosophy of science (Université Paris-Cité). 
 
-**My research aims to understand how collectives generate, leverage, transmit, and sustain complex knowledge. In particular, I am interested in how individuals navigate social dilemmas arising in contexts of collective cognition, and in the resilience of cumulative learning.**
+**My research aims to understand how collectives generate, leverage, transmit, and sustain complex knowledge. In particular, I am interested in how individuals navigate social dilemmas in collective cognition, and in the resilience of cumulative learning.**
 
 I address these questions using computational models, empirical analyses of observational data, and since recently, online experiments. Most of my works appeal to Bayesian methods.
 
-My PhD focused on social dilemmas in science and high-energy physics, which is particularly interesting due to a strong division of labor. I showed that several major developments in the field may be understood as solutions to tradeoffs and dilemmas arising in contexts of collective cognition. This work involved an interdiscplinary effort spanning across philosophy of science, social epistemology, cognitive science, and cultural evolution. 
+My PhD focused on social dilemmas in science, with an emphasis on high-energy physics, which is characterized by a strong division of labor. I showed that several major developments in this field may be understood as solutions to tradeoffs and dilemmas arising more generally in contexts of collective cognition. This work involved an interdiscplinary effort spanning across philosophy of science, social epistemology, cognitive science, and cultural evolution. 
 
-Parallel to my PhD, I worked at the <a href="https://lscp.dec.ens.fr/en">ENS</a> as part of the Language Acquisition Across Cultures team led by Alejandrina Cristia. This team studies Language Acquisition by collecting and analyzing long-form recordings capturing the sound environment of infants (what they ear) and their own vocal production.
+Parallel to my PhD, I worked at the <a href="https://lscp.dec.ens.fr/en">ENS</a> as part of the Language Acquisition Across Cultures team led by Alejandrina Cristia. This team studies Language Acquisition by collecting and analyzing long-form recordings capturing the speech production and environment of children.
 
 In a previous life, I have also been a journalist and the publication manager for the french online media [Le Média](https://lemediatv.fr>).
 
