@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Paris, France</p>
-    <p>Wuppertal, Germany</p>
+    <p>Columbia, Missouri</p>
 
 news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
