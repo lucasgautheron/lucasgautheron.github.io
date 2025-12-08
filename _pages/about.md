@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 Research interests
 ==================
 
-I am currently a Postdoctoral Fellow in the Evolution, Science and Society group of the University of Missouri. I recently completed by PhD in computational sociology at the Interdisciplinary Centre for Science and Technology Studies in Wuppertal. I have a training in fundamental physics (École Normale Supérieure de Cachan and Université Pierre et Marie Curie) and in history and philosophy of science (Université Paris-Cité). 
+I am currently a Postdoctoral Fellow in the Evolution, Science and Society group at the University of Missouri. I recently completed by PhD in computational sociology at the Interdisciplinary Centre for Science and Technology Studies in Wuppertal. I have a training in fundamental physics (École Normale Supérieure de Cachan and Université Pierre et Marie Curie) and in history and philosophy of science (Université Paris-Cité). 
 
 **My research aims to understand how collectives generate, leverage, transmit, and sustain complex knowledge. In particular, I am interested in how individuals navigate social dilemmas in collective cognition, and in the resilience of cumulative learning.**
 
