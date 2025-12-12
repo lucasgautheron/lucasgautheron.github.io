@@ -15,7 +15,7 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Postdoctoral Fellow in the Evolution, Science and Society group at the University of Missouri. I recently completed by PhD in computational sociology at the Interdisciplinary Centre for Science and Technology Studies in Wuppertal. I have a training in fundamental physics (École Normale Supérieure de Cachan and Université Pierre et Marie Curie) and in history and philosophy of science (Université Paris-Cité).
+I am currently a Postdoctoral Fellow in the Evolution, Science and Society group at the University of Missouri. I recently completed my PhD in computational sociology at the Interdisciplinary Centre for Science and Technology Studies in Wuppertal. I have a training in fundamental physics (École Normale Supérieure de Cachan and Université Pierre et Marie Curie) and in history and philosophy of science (Université Paris-Cité).
 
 Research interests
 ==================
