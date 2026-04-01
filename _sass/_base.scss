@@ -819,6 +819,14 @@ footer.sticky-bottom {
             text-decoration: underline;
           }
         }
+
+        .tag {
+          border-radius: 999px;
+          padding: 0.25rem 0.5rem;
+          line-height: 1.2;
+          font-weight: 500;
+          text-decoration: none;
+        }
       }
 
       .hidden {
