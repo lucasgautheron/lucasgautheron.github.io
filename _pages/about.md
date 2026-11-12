@@ -11,8 +11,17 @@ profile:
   more_info: >
     <p>Columbia, Missouri</p>
 
-news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: false # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am currently a Postdoctoral Fellow in the [Evolution, Science and Society group](https://sites.google.com/umsystem.edu/ess/) at the University of Missouri. I also collaborate with the [Cornell Computational Cognition Lab](https://cococo-lab.cornell.edu/). I recently completed my PhD in computational sociology at the Interdisciplinary Centre for Science and Technology Studies in Wuppertal. I have a training in fundamental physics (École Normale Supérieure de Cachan and Université Pierre et Marie Curie) and in history and philosophy of science (Université Paris-Cité).
