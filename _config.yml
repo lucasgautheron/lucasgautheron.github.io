@@ -293,7 +293,9 @@ scholar:
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
+  # Filters that expect LaTeX braces (superscript, italics, ...) must run before `latex`,
+  # which strips them. `fontsize` is defined in _plugins/bibtex-fontsize.rb.
+  bibtex_filters: [superscript, italics, textit, smallcaps, fontsize, latex]
 
   replace_strings: true
   join_strings: true
