@@ -304,8 +304,10 @@ scholar:
   details_link: Details
 
   query: "@*"
-  sort_by: [year, month]
-  order: [descending, descending]
+  # Within a year, entries with a publication status (pubstate, e.g. in press) come first,
+  # then the others by month.
+  sort_by: [year, pubstate, month]
+  order: [descending, descending, descending]
   group_by: keywords
 
 # Display different badges withs stats for your publications
