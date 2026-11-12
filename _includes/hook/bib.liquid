@@ -1,0 +1,23 @@
+{% comment %}
+  Publication status (biblatex `pubstate` field), e.g. pubstate={inpress}.
+  Appended to the year in the journal line: "Journal, 2026, in press".
+  This hook is included by _layouts/bib.liquid before the line is assembled.
+{% endcomment %}
+{% if entry.pubstate %}
+  {% assign pubstate_key = entry.pubstate | downcase | strip %}
+  {% case pubstate_key %}
+    {% when 'inpress' %}
+      {% assign pubstate_label = 'in press' %}
+    {% when 'inpreparation' %}
+      {% assign pubstate_label = 'in preparation' %}
+    {% when 'prepublished' %}
+      {% assign pubstate_label = 'pre-published' %}
+    {% else %}
+      {% assign pubstate_label = pubstate_key %}
+  {% endcase %}
+  {% if entry.year %}
+    {% capture entryyear %}{{ entryyear }}, {{ pubstate_label }}{% endcapture %}
+  {% else %}
+    {% capture entryyear %}{{ " " }}{{ pubstate_label }}{% endcapture %}
+  {% endif %}
+{% endif %}

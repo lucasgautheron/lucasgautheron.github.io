@@ -558,14 +558,15 @@ abstract = {With the advent of wearable recorders, scientists are increasingly t
   presort=1
 }
 
-@misc{gautheron2026active,
+@article{gautheron2026active,
   title={Active Inference with People: a general approach to real-time adaptive experiments},
   author={Gautheron, Lucas and Jacoby, Nori and Harrison, Peter},
   year={2026},
   doi={10.48550/ARXIV.2603.29003},
   url={https://arxiv.org/abs/2603.29003},
-  publisher={arXiv},
-  keywords={preprints},
+  journal={Behavior Research Methods},
+  pubstate={inpress},
+  keywords={publications},
   tags={Bayesian inference,Adaptive experiments},
   abstract={Adaptive experiments automatically optimize their design throughout the data collection process, which can bring substantial benefits compared to conventional experimental settings. Potential applications include, among others: computerized adaptive testing (for selecting informative tasks in ability measurements), adaptive treatment assignment (when searching experimental conditions maximizing certain outcomes), and active learning (for choosing optimal training data for machine learning algorithms). However, implementing these techniques in real time poses substantial computational and technical challenges. Additionally, despite their conceptual similarity, the above scenarios are often treated as separate problems with distinct solutions. In this paper, we introduce a practical and unified approach to real-time adaptive experiments that can encompass all of the above scenarios, regardless of the modality of the task (including textual, visual, and audio inputs). Our strategy combines active inference, a Bayesian framework inspired by cognitive neuroscience, with PsyNet, a platform for large-scale online behavioral experiments. While active inference provides a compact, flexible, and principled mathematical framework for adaptive experiments generally, PsyNet is a highly modular Python package that supports social and behavioral experiments with stimuli and responses in arbitrary domains. We illustrate this approach through two concrete examples: (1) an adaptive testing experiment estimating participants' ability by selecting optimal challenges, effectively reducing the amount of trials required by 30--40\%; and (2) an adaptive treatment assignment strategy that identifies the optimal treatment up to three times as accurately as a fixed design in our example. We provide detailed instructions to facilitate the adoption of these techniques.},
   preview={activeinference.png},
