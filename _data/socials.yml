@@ -1,7 +1,6 @@
 # this file contains the social media links and usernames of the author
-# the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
-
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 bluesky_url: https://bsky.app/profile/lucasgautheron.bsky.social # your bluesky URL
@@ -23,7 +22,7 @@ github_username: lucasgautheron # your GitHub user name
 # linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: 0000-0002-3776-3373# your ORCID ID
+orcid_id: 0000-0002-3776-3373 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
