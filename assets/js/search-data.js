@@ -45,50 +45,50 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "post-la-démocratie-comme-machine-épistémique-comprendre-la-prospérité-d-39-athènes",
-      
-        title: "La démocratie comme machine épistémique: comprendre la prospérité d&#39;Athènes",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
         
-          window.location.href = "/posts/2022/09/epistemic-democracy/";
+          title: "La démocratie comme machine épistémique: comprendre la prospérité d&#39;Athènes",
         
-      },
-    },{id: "post-le-nucléaire-39-plus-intermittent-39-que-l-39-éolien",
-      
-        title: "Le nucléaire, &#39;plus intermittent&#39; que l&#39;éolien?",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2022/09/epistemic-democracy/";
+          
+        },
+      },{id: "post-le-nucléaire-39-plus-intermittent-39-que-l-39-éolien",
         
-          window.location.href = "/posts/2022/08/eolien-nucleaire-intermittent/";
+          title: "Le nucléaire, &#39;plus intermittent&#39; que l&#39;éolien?",
         
-      },
-    },{id: "post-notes-on-social-epistemology-essential-readings",
-      
-        title: "Notes on Social Epistemology: Essential Readings",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2022/08/eolien-nucleaire-intermittent/";
+          
+        },
+      },{id: "post-notes-on-social-epistemology-essential-readings",
         
-          window.location.href = "/blog/2022/social-epistemology-post/";
+          title: "Notes on Social Epistemology: Essential Readings",
         
-      },
-    },{id: "post-l-39-esprit-public-une-émission-privatisée-sur-france-culture",
-      
-        title: "L&#39;Esprit Public, une émission privatisée sur France Culture",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/social-epistemology-post/";
+          
+        },
+      },{id: "post-l-39-esprit-public-une-émission-privatisée-sur-france-culture",
         
-          window.location.href = "/posts/2018/05/lesprit-public-une-emission-privatisee-sur-france-culture/";
+          title: "L&#39;Esprit Public, une émission privatisée sur France Culture",
         
-      },
-    },{id: "projects-history-of-cosmology",
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2018/05/lesprit-public-une-emission-privatisee-sur-france-culture/";
+          
+        },
+      },{id: "projects-history-of-cosmology",
           title: 'History of Cosmology',
           description: "",
           section: "Projects",handler: () => {
@@ -144,7 +144,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0002-3776-3373# your ORCID ID", "_blank");
+          window.open("https://orcid.org/0000-0002-3776-3373", "_blank");
         },
       },{
         id: 'social-rss',
