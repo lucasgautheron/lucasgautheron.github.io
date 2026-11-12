@@ -88,6 +88,23 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      - name: Fetch publications from the CV repository 📚
+        # The publication list is maintained in https://github.com/lucasgautheron/CV
+        # (edit publications.bib there, not here). The copy committed in this
+        # repository is only a fallback, used if the fetch fails and for local builds.
+        env:
+          CV_REPO: https://github.com/lucasgautheron/CV.git
+        run: |
+          if git clone --quiet --depth 1 "$CV_REPO" "$RUNNER_TEMP/cv" && [ -s "$RUNNER_TEMP/cv/publications.bib" ]; then
+            cp "$RUNNER_TEMP/cv/publications.bib" _bibliography/publications.bib
+            # add previews for new publications; previews already in this repository are kept
+            for f in "$RUNNER_TEMP/cv/previews/"*; do
+              [ -e "assets/img/publication_preview/$(basename "$f")" ] || cp "$f" assets/img/publication_preview/
+            done
+            echo "Using publications.bib from the CV repository at commit $(git -C "$RUNNER_TEMP/cv" rev-parse --short HEAD)"
+          else
+            echo "::warning::Could not fetch publications.bib from the CV repository; using the copy committed in this repository."
+          fi
       - name: Install and Build 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
